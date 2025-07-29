@@ -3,10 +3,10 @@ import smtplib
 
 
 MY_EMAIL ="tumbawakala@gmail.com"
-PASSWORD ="kutd fhpy jdbe ygra"
+PASSWORD ="password"
 
 
-api_key = "a674fa00336a2ef683c562ee1780b9d8"
+api_key = "a674fa00336a23434c562ee1780b9d8"
 END_POINT = "http://api.openweathermap.org/data/2.5/forecast"
 
 LAT = 32.814018
